@@ -18,9 +18,11 @@ You will repeat the process with pairing every other number: [1,3],
 
 
 Requirements to run:
+
 Python 3.4
 
 To Run:
+
 In command line/terminal move into directory that the program is stored in 
 (i.e. C:\Users\Username\Documents\).
 
