@@ -3,6 +3,7 @@ Couplets.py
 A program utilizing Python 3.4 to run operations on sets of data in couplet
 pairs. This is a task commonly utilized in chemistry.
 
+
 Ex.
 There is a set of data consisting of 1, 2, 3, 4, 5, 6
 (Data is always in ascending order).
@@ -17,9 +18,11 @@ You will repeat the process with pairing every other number: [1,3],
 [2,4], [3,6].
 
 
+
 Requirements to run:
 
 Python 3.4
+
 
 To Run:
 
