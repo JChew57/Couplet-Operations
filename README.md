@@ -1,4 +1,4 @@
-Couplets.py
+NMRCalc.py
 
 A program utilizing Python 3.4 to run operations on sets of data in couplet
 pairs. Used for Calculation of Nuclear Magnetic Resonance.
@@ -30,4 +30,4 @@ To Run:
 In command line/terminal move into directory that the program is stored in
 (i.e. C:\Users\Username\Documents\).
 
-Type python3 couplets.py
+Type python3 NMRCalc.py
